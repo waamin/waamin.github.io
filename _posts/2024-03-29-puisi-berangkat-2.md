@@ -8,7 +8,7 @@ author: Wa Amin
 ---
 
 <p align="center">
-Pemandangan pagi yang kita temui, setiap  erangkat kerja,<br>
+Pemandangan pagi yang kita temui, setiap berangkat kerja,<br>
 Adalah pejalan kaki yang menuju stasiun keteta,<br>
 Penjaga penyebrangan rel kereta tanpa palang pintu,<br>
 yang selalu sigap meniupkan peluit untuk mengingatkan penyebrang rel,<br>
