@@ -261,7 +261,8 @@ date_format: "%B %-d, %Y"
 timezone: "Asia/Jakarta"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:title/
+# permalink: /:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
