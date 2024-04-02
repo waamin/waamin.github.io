@@ -21,6 +21,7 @@ author: waamin
 
 navbar-links:
   Home: "/"
+  Archive: "archive"
   About Me: "aboutme"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
